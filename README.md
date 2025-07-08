@@ -32,8 +32,8 @@ A simple yet powerful application that allows you to query your CSV data using n
 
 1. Upload your CSV file using the file uploader
 2. Review the data preview and schema
-3. Enter your question in plain English
-4. Click "Generate Answer" to see the SQL query and results
+3. Type your question in simple, everyday language
+4. Hit "Generate Answer" to view the SQL query and the results
 
 ## Example Questions
 
