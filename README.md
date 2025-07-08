@@ -5,8 +5,8 @@ A simple yet powerful application that allows you to query your CSV data using n
 ## Features
 
 - Upload CSV files and automatically convert them to a queryable database
-- Ask questions in plain English about your data
-- View the generated SQL queries
+- Ask questions using natural language — no SQL required
+- View the generated SQL queries created behind the scenes
 - See results in a clean, tabular format
 - Modern, user-friendly interface
 
