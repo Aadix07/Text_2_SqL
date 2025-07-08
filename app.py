@@ -22,8 +22,8 @@ if 'chat_history' not in st.session_state:
 # Title and description
 st.title("🤖 Text to SQL Assistant")
 st.markdown("""
-This application helps you query your CSV data using natural language. 
-Simply upload your CSV file and ask questions in plain English!
+Want answers from your CSV without digging through rows???
+Just upload your file and ask your questions like you're chatting with a friend — it's that simple!
 """)
 
 # File upload section
